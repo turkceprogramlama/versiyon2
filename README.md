@@ -7,7 +7,7 @@ Yürütülen bu proje; bir programlama dili **Türkçe** olabilir mi, hiç bilme
 
 Amaç, evrensel bir dil geliştirmekten ziyade, öğretmede kullanıbilecek pratik bir dil olmasıdır.
 
-Sadece dil terimlerini Türkçe'leştirmeden ziyade onları görselleştirmeye çalışması ile programlamayı yeni öğrenenlere faydalı bir biçimde öğreteceği düşünülmektedir. Yazım dili olarak C/C++/Java ve Python dillerini benimsemesi bu dillere geçişi kolaylaştırması için amaçlanmıştır. 
+Sadece dil terimlerini Türkçe'leştirmeden ziyade onları görselleştirmeye çalışması ile programlamayı yeni öğrenenlere faydalı bir biçimde öğreteceği düşünülmektedir. Yazım dili olarak ilk sürümde C/C++/Java,Python gibi geneleksek diller baz alınmıştı. 
 
 Yalnız **2.sürümde** *Türkçe gramer* çoğunlukla benimsenmiştir. Bu da yukarıda bahsedilen Türkçe için yapılan araştırmanın, *farklı bir gramer* için yapılması anlamına gelmektedir.
 
@@ -20,9 +20,7 @@ Facebook Link: [https://www.facebook.com/turkceprogramlamadili](https://www.face
 
 Kullanılan dilin söz dizimi (syntax) özgün olarak üretilmiştir. Her programlama dilinde olduğu gibi esinlendiği bir kaç güncel programlama dili mevcuttur. Bunlar arasında **Java/C++** dil ailesi ile **Python** dili olduğu söylenebilir.
 
-Kullanılan dilde; öncelikle alışılageldik dil öğelerinin kullanılmasına dikkat edilmiştir. Örneğin Java dil ailesinden bileşik komutların süslü prantezde yazılması alınmış, satır sonlarının noktalı virgülle bitme zorunluluğu olmaması yönüyle de python örnek alınmış denebilir.
-
-Programlama öğrenen kişinin programın çalışma mantığını anlamasına yardımcı olması hedeflenen dilin özelliklerinden bir kaçını şöyle maddeler halinde sayabiliriz:
+Kullanılan dilde; öncelikle alışılageldik dil öğelerinin kullanılmasına dikkat edilmiştir. Programlama öğrenen kişinin programın çalışma mantığını anlamasına yardımcı olması hedeflenen dilin özelliklerinden bir kaçını şöyle maddeler halinde sayabiliriz:
 
 - Anlaması kolay (doğal konuşma diline yakın) 
 - Sadece amaca özgü olacak kadar detaylı (gereksiz detayları olmayan)
